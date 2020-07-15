@@ -1,6 +1,5 @@
 #!/bin/bash
 #Tableau Server on Linux Logs and Cleanup Script
-#Originally created by Jonathan MacDonald @ The Information Lab
 
 # 	HOW TO USE THIS SCRIPT:
 # 		Run the setup.bash script in this Github repo to fetch the script and install it in your system correctly 
