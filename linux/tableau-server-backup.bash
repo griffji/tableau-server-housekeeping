@@ -1,6 +1,5 @@
 #!/bin/bash
 #Tableau Server on Linux Backup Script
-#Originally created by Jonathan MacDonald @ The Information Lab
 
 # 	HOW TO USE THIS SCRIPT:
 # 		Run the setup script to fetch the script and install it in your system correctly 
